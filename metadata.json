@@ -1,0 +1,7 @@
+{
+  "name": "One Life Fit",
+  "description": "A mobile-first fitness PWA for weight loss, food tracking with AI, and home workouts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
